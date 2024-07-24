@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pantai</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <img src="img/a.jpg" alt="" />
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. At officiis,
+      provident alias quam nihil hic veniam pariatur cumque accusamus et, facere
+      necessitatibus quibusdam quos fugit cum vitae voluptas maxime eos ullam
+      quas, modi quidem consequatur expedita recusandae? Omnis nam quod eaque
+      harum tenetur expedita! Maxime quis reprehenderit voluptates quasi magni,
+      porro quae officia nulla, provident in, officiis ducimus quod odit at
+      dolores unde labore explicabo voluptas error temporibus et fugiat velit?
+      Doloremque esse ipsa asperiores commodi possimus facilis perspiciatis
+      porro iure neque et itaque, voluptates assumenda tenetur pariatur fugit
+      rerum aspernatur nihil, quos minus veniam harum illo. Quisquam, delectus
+      similique.
+    </p>
+    <a href="page1.html">Kembali Ke Rumah</a>
+  </body>
+</html>
